@@ -1,1 +1,1 @@
-Newbranch fyrst file
+Newbranch first file and change some text for merging in master branch.
